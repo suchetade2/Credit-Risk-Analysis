@@ -41,7 +41,7 @@ It focuses on identifying and predicting **credit card default risk**, helping f
   - **Random Forest**
 - Evaluated model accuracy, recall, and confusion matrix.  
 - Exported cleaned dataset for Tableau:  
-  📁 `credit_default_cleaned_for_tableau.csv`  
+  
 
 📘 *Google Colab Notebook:* [Click here to view code](https://colab.research.google.com/drive/1MBx50Cw3-Km_DhtTPBuFkWGktEdnkZGX#scrollTo=rkrl71besuzR)
 
